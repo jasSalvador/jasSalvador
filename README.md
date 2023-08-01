@@ -3,6 +3,8 @@
 
 ![Banner](https://github.com/jasSalvador/jasSalvador/blob/main/banner.png)
 
+<br>
+
 ## Education:
 - Fullstack Javascript Trainee - Talento Digital (March-July 2023)
 - Fullstack Pyhton Trainee - Coding Dojo (Agosto-Octubre 2022)
