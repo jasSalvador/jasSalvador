@@ -5,6 +5,7 @@
 
 <br>
 
+<!--
 ## Education:
 - Fullstack Javascript Trainee - Talento Digital (March-July 2023)
 - Fullstack Pyhton Trainee - Coding Dojo (Agosto-Octubre 2022)
@@ -28,7 +29,7 @@
 ![Flask](https://img.shields.io/badge/-flask-F0772B?style=flat-square&logo=handlebarsdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-mySQL-F0772B?style=flat-square&logo=handlebarsdotjs&logoColor=white)
 <br><br>
-
+-->
 
 <!--
 **jasSalvador/jasSalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
