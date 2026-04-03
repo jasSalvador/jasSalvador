@@ -1,7 +1,7 @@
 
 ![Banner del proyecto](banner.jpg)
 
-####No solo escribo código: me centro en el usuario y los detalles, fusionando código limpio, interactividad y diseño en cada proyecto.
+#### No solo escribo código: me centro en el usuario y los detalles, fusionando código limpio, interactividad y diseño en cada proyecto.
 
 ## 💻 Sobre Mí
 - 👩🏻‍💻 Desarrolladora web fullStack con formación en diversos Bootcamp de programación
