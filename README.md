@@ -18,7 +18,9 @@ No solo escribo código: me centro en el usuario y los detalles, fusionando cód
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jasSalvador&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jasSalvador&layout=compact&theme=radical)
+
 
 ## ¡Gracias por visitar mi perfil! 🚀
 Jasmin S | Fan del código bonito ✨
